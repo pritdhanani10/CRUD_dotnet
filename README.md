@@ -1,7 +1,7 @@
 # CRUD Operations
 
 ## Create
-<img src="https://github.com/user-attachments/assets/2ed795cb-5bd9-466d-b5e7-610732dca6cd" width="800" height="400" />
+<img src="https://github.com/user-attachments/assets/2ed795cb-5bd9-466d-b5e7-610732dca6cd" width="800" height="500" />
 
 ## Read
 <img src="https://github.com/user-attachments/assets/3d397b36-2588-4961-bd8b-547ba428162f" width="800" height="400" />
